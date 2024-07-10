@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18C686802C3EE9CF00436D83 /* blackgoku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18C6867F2C3EE9CF00436D83 /* blackgoku.jpg */; };
+		18C686822C3EEA9700436D83 /* landscapeblackgoku.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18C686812C3EEA9700436D83 /* landscapeblackgoku.jpeg */; };
 		18FA41B32C0CE0A6000C719F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FA41B22C0CE0A6000C719F /* AppDelegate.swift */; };
 		18FA41B52C0CE0A6000C719F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FA41B42C0CE0A6000C719F /* SceneDelegate.swift */; };
 		18FA41B72C0CE0A6000C719F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FA41B62C0CE0A6000C719F /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18C6867F2C3EE9CF00436D83 /* blackgoku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = blackgoku.jpg; path = ../../../../Downloads/blackgoku.jpg; sourceTree = "<group>"; };
+		18C686812C3EEA9700436D83 /* landscapeblackgoku.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = landscapeblackgoku.jpeg; path = ../../../../Downloads/landscapeblackgoku.jpeg; sourceTree = "<group>"; };
 		18FA41AF2C0CE0A6000C719F /* ProjectLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18FA41B22C0CE0A6000C719F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18FA41B42C0CE0A6000C719F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 		18FA41B12C0CE0A6000C719F /* ProjectLayout */ = {
 			isa = PBXGroup;
 			children = (
+				18C686812C3EEA9700436D83 /* landscapeblackgoku.jpeg */,
+				18C6867F2C3EE9CF00436D83 /* blackgoku.jpg */,
 				18FA41B22C0CE0A6000C719F /* AppDelegate.swift */,
 				18FA41B42C0CE0A6000C719F /* SceneDelegate.swift */,
 				18FA41B62C0CE0A6000C719F /* ViewController.swift */,
@@ -127,7 +133,9 @@
 			files = (
 				18FA41BC2C0CE0A7000C719F /* Assets.xcassets in Resources */,
 				18FA41BF2C0CE0A7000C719F /* Base in Resources */,
+				18C686822C3EEA9700436D83 /* landscapeblackgoku.jpeg in Resources */,
 				18FA41BA2C0CE0A6000C719F /* Base in Resources */,
+				18C686802C3EE9CF00436D83 /* blackgoku.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
